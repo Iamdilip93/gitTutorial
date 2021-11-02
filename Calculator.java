@@ -3,6 +3,4 @@ class Calci{
 	
 	"" Adding extra new Feature"
 	
-	
-	
 } 
